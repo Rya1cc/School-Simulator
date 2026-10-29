@@ -1,0 +1,11 @@
+COLLEGE PLAN v1
+# Fictional examples; replace these with your own colleges and estimates.
+seed = 2027
+cycles = 50000
+mode = full
+correlation = 0%
+
+college | round | admit % | offered rounds | waitlist % | wl admit % | deferral %
+Example College A | EA | 20% | EA, RD | 20% | 10% | 30%
+Example College B | ED2 | 50% | ED, ED2, RD | 15% | 10% | 25%
+Example College C | Rolling | 80% | Rolling | 0% | 0% | 0%
